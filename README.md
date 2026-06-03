@@ -186,4 +186,4 @@ Open source under the [MIT License](LICENSE). Fork it, learn from it, build on i
 
 ---
 
-*Found this useful? Drop a ⭐ on GitHub!*
+*Found this useful? Drop a ⭐ on this Repo!*
