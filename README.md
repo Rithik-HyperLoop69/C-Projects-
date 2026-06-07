@@ -13,10 +13,10 @@ A personal collection of C programs — built from scratch to practise core prog
 ## 📌 Table of Contents
 
 - [Projects at a Glance](https://github.com/Rithik-HyperLoop69/C-Projects-#%EF%B8%8F-projects-at-a-glance)
-- [Project Details](#project-details)
-- [Getting Started](#getting-started)
-- [Roadmap](#roadmap)
-- [License](#license)
+- [Project Details](https://github.com/Rithik-HyperLoop69/C-Projects-#-project-details)
+- [Getting Started](https://github.com/Rithik-HyperLoop69/C-Projects-/edit/main/README.md#-getting-started)
+- [Roadmap](https://github.com/Rithik-HyperLoop69/C-Projects-/edit/main/README.md#-getting-started)
+- [License](https://github.com/Rithik-HyperLoop69/C-Projects-#-license)
 
 ---
 
