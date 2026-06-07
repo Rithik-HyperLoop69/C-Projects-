@@ -12,7 +12,7 @@ A personal collection of C programs — built from scratch to practise core prog
 
 ## 📌 Table of Contents
 
-- [Projects at a Glance](#projects-at-a-glance)
+- [Projects at a Glance](https://github.com/Rithik-HyperLoop69/C-Projects-#%EF%B8%8F-projects-at-a-glance)
 - [Project Details](#project-details)
 - [Getting Started](#getting-started)
 - [Roadmap](#roadmap)
